@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ssm_dao" />
         <module name="ssm_service" />
+        <module name="ssm_controller" />
       </profile>
     </annotationProcessing>
   </component>
